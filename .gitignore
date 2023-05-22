@@ -135,4 +135,4 @@ tmp
 /pylon
 /pylon_auth
 /pylon_worker
-pylon.yml
+config/pylon.yml
